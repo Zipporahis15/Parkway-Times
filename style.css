@@ -1,0 +1,12 @@
+body {
+	font-family: georgia;
+	font-size: 25px;
+	padding:25px;
+	background:#ff8080;
+}
+div { 
+	background: red;
+	margin: 0 auto;
+	width: 320px;
+	 padding: 20px;
+	}
