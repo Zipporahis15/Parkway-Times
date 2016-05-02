@@ -1,12 +1,30 @@
-body {
-	font-family: georgia;
-	font-size: 25px;
-	padding:25px;
-	background:#ff8080;
+
+<html>
+
+
+
+<body {
+	background-color= "#ff8080";
+
+}
+	<h1> Parkway Times</h1>
+
+}
+
+h1 {
+	text-align: center;
+}
+h1{
+	text-align: center;
 }
 div { 
-	background: red;
-	margin: 0 auto;
-	width: 320px;
-	 padding: 20px;
+
+	background-color: red;
+	margin: 2228 auto;
+	width: 20px;
+	padding: 500px;
+	border: 100px:grey;
+
 	}
+div
+</html>
